@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋  I'm Londeka Zikalala  
+🚀 Full-Stack Developer | Passionate about building scalable web applications  
 
-<!--
-**Londeka-Zikalala/Londeka-Zikalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack  
+- 🌐 Frontend: HTML, CSS, JavaScript, TypeScript, React  
+- ⚙️ Backend: Node.js, Express.js, PostgreSQL  
+- 🧪 Testing: Mocha, Chai, Playwright  
+- 🎨 UI/UX: Figma
 
-Here are some ideas to get you started:
+## 📫 Connect with me  
+[ [Portfolio](https://londeka-zikalala.github.io/Londeka-portfolio/)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Londeka-Zikalala&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
