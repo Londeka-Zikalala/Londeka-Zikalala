@@ -8,6 +8,6 @@
 - 🎨 UI/UX: Figma
 
 ## 📫 Connect with me  
-[ [Portfolio](https://londeka-zikalala.github.io/Londeka-portfolio/)  
+[Portfolio](https://londeka-zikalala.github.io/Londeka-portfolio/)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Londeka-Zikalala&show_icons=true&theme=radical)
 
