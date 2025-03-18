@@ -3,7 +3,7 @@
 
 ## 💻 Tech Stack  
 - 🌐 Frontend: HTML, CSS, JavaScript, TypeScript, React  
-- ⚙️ Backend: Node.js, Express.js, PostgreSQL  
+- ⚙️ Backend: Node.js, Express.js, Nest.js, PostgreSQL  
 - 🧪 Testing: Mocha, Chai, Playwright  
 - 🎨 UI/UX: Figma
 
