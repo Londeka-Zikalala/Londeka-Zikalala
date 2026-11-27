@@ -21,6 +21,6 @@ I'm passionate about backend engineering, system integrations and building relia
 ## 📫 Connect with me
 
 - 🌐 [Portfolio](https://londeka-zikalala.github.io/Londeka-portfolio/)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/londeka-sendzekile-zikalala-/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Londeka-Zikalala&show_icons=true&theme=radical)
